@@ -12,6 +12,6 @@ Please visit [my LinkedIn page](https://www.linkedin.com/in/micah-golomb-leavitt
 
 ![Residence_info](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/Social%20Media%20Marketing%20-%20Business%20Infographic.png?raw=true)
 
-## Timeline of the 2016 Rio Summer Olympics
+## Timeline of the 2016 Rio Summer Olympic Games
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yYO0mgqG_Wq7CfEPCjl4uaJs9a7voPDsHS4ywfpRrYQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
