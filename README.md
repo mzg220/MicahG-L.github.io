@@ -11,3 +11,8 @@ Please visit [my LinkedIn page](https://www.linkedin.com/in/micah-golomb-leavitt
 ## Lehigh Residence Data Infographic
 
 ![Residence_info](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/Social%20Media%20Marketing%20-%20Business%20Infographic.png?raw=true)
+
+## Timeline of the 2016 Rio Summer Olympics
+
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+                                
