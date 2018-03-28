@@ -14,5 +14,4 @@ Please visit [my LinkedIn page](https://www.linkedin.com/in/micah-golomb-leavitt
 
 ## Timeline of the 2016 Rio Summer Olympics
 
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
-                                
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yYO0mgqG_Wq7CfEPCjl4uaJs9a7voPDsHS4ywfpRrYQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
