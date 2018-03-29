@@ -15,3 +15,9 @@ Please visit [my LinkedIn page](https://www.linkedin.com/in/micah-golomb-leavitt
 ## Timeline of the 2016 Rio Summer Olympic Games
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yYO0mgqG_Wq7CfEPCjl4uaJs9a7voPDsHS4ywfpRrYQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Odds of Making the NBA Infographic
+
+This graphic visualizes the odds of a person making the NBA. It features four statistics in particular that stand out when evaluating one's chances of going pro. The data in this graphic is taken from the book Everybody Lies by Seth Stephens-Davidowitz.
+
+![NBA_Odds](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/NBA%20Odds.png?raw=true)
