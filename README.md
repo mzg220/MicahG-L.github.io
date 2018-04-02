@@ -21,3 +21,9 @@ Please visit [my LinkedIn page](https://www.linkedin.com/in/micah-golomb-leavitt
 This graphic visualizes the odds of a person making the NBA. It features four statistics in particular that stand out when evaluating one's chances of going pro. The data in this graphic is taken from the book Everybody Lies by Seth Stephens-Davidowitz.
 
 ![NBA_Odds](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/NBA%20Odds.png?raw=true)
+
+## 2016 Undergraduate Enrollment by College Chart
+
+This chart shows the percentage of undergraduate lehigh students enrolled, separated into the colleges they are enrolled in. The data is taken from Lehgih's Fall 2016 Institutional Profile.
+
+![Undergrad_Enroll](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/J24%20Day%205%20%25%20Chart.png?raw=true)
