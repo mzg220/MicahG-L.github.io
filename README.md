@@ -27,3 +27,9 @@ This graphic visualizes the odds of a person making the NBA. It features four st
 This chart shows the percentage of undergraduate lehigh students enrolled, separated into the colleges they are enrolled in. The data is taken from Lehgih's Fall 2016 Institutional Profile.
 
 ![Undergrad_Enroll](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/J24%20Day%205%20%25%20Chart.png?raw=true)
+
+## Timeline of Bill Gates and his founding of Microsoft
+
+This timeline shows the story of how Bill Gates became one of the earliest and best programmers in the world, going on to co-found Microsoft with Paul Allen at a young age.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yYO0mgqG_Wq7CfEPCjl4uaJs9a7voPDsHS4ywfpRrYQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
