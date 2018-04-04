@@ -1,9 +1,7 @@
 # MicahG-L.github.io
 ## About Me
 
-
 ![Micah.img](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/micah-gl-201x300.jpg?raw=true)
-
 
 My name is Micah and I'm a Journalism and Sociology/Anthropology double major at Lehigh University. I primarily use data to work with media and technology and analyze trends in various aspects of life. This is a portfolio holding my data visualization projects and other explorations in the world of data.
 Please visit [my LinkedIn page](https://www.linkedin.com/in/micah-golomb-leavitt-b303b4152/) for more information about me.
@@ -33,3 +31,10 @@ This chart shows the percentage of undergraduate lehigh students enrolled, separ
 This timeline shows the story of how Bill Gates became one of the earliest and best programmers in the world, going on to co-found Microsoft with Paul Allen at a young age.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yYO0mgqG_Wq7CfEPCjl4uaJs9a7voPDsHS4ywfpRrYQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Undergraduate Enrollment Over the Past Ten Years Chart
+
+This line chart displays the percentages of undergraduate enrollment by college at Lehigh University over the past ten years. The data is taken from the fall semester of each year, dating back to 2008.
+
+[Undergrad_Enroll-10 yrs](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/EnrollLineChart.png?raw=true)
+
