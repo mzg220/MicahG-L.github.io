@@ -36,5 +36,5 @@ This timeline shows the story of how Bill Gates became one of the earliest and b
 
 This line chart displays the percentages of undergraduate enrollment by college at Lehigh University over the past ten years. The data is taken from the fall semester of each year, dating back to 2008.
 
-[Undergrad_Enroll-10 yrs](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/EnrollLineChart.png?raw=true)
+![Undergrad_Enroll-10 yrs](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/EnrollLineChart.png?raw=true)
 
