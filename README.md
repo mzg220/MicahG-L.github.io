@@ -38,3 +38,8 @@ This line chart displays the percentages of undergraduate enrollment by college 
 
 ![Undergrad_Enroll-10 yrs](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/EnrollLineChart.png?raw=true)
 
+## Adult Obesity Rates Chart
+
+This line chart shows the adult obesity rates over the years 2007-2016 for the three most obese states by statistics, (1) West Virginia, (2) Mississippi and (3) Alabama. The data is taken from The State of Obesity (https://stateofobesity.org/adult-obesity/).
+
+![Adult_Obesity](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/Adult_Obesity_Rates_of_Three_Most_Obese_States_Alabama_Mississippi_West_Virginia_chartbuilder.png?raw=true)
