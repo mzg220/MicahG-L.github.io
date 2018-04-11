@@ -39,3 +39,9 @@ This line chart displays the percentages of undergraduate enrollment by college 
 This line chart shows the adult obesity rates over the years 2007-2016 for the three most obese states by statistics, (1) West Virginia, (2) Mississippi and (3) Alabama. The data is taken from The State of Obesity. (https://stateofobesity.org/adult-obesity/)
 
 ![Adult_Obesity](https://github.com/MicahG-L/MicahG-L.github.io/blob/master/Adult_Obesity_Rates_of_Three_Most_Obese_States_Alabama_Mississippi_West_Virginia_chartbuilder.png?raw=true)
+
+## Bethlehem Arts Centers Google Fusion Table
+
+This Google Fusion Table presents 5 distinct arts centers in the Bethlehem Area that are great family places to visit.
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1Bpt2iTRVJWZzcygKhaQD6IRtsgarDaWpyEmOvc8N&amp;viz=MAP&amp;h=false&amp;lat=40.60953880679031&amp;lng=-75.3756137365234&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
